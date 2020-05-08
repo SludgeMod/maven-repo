@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>alexiil.mc.lib</groupId>
+  <artifactId>libblockattributes-all</artifactId>
+  <version>0.7.1-prospector</version>
+  <dependencies>
+    <dependency>
+      <groupId>alexiil.mc.lib</groupId>
+      <artifactId>libblockattributes-core</artifactId>
+      <version>0.7.1-prospector</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>alexiil.mc.lib</groupId>
+      <artifactId>libblockattributes-items</artifactId>
+      <version>0.7.1-prospector</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>alexiil.mc.lib</groupId>
+      <artifactId>libblockattributes-fluids</artifactId>
+      <version>0.7.1-prospector</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
+</project>
